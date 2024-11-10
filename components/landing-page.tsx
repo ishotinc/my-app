@@ -47,10 +47,10 @@ export function LandingPage() {
               transition={fadeIn.transition}
             >
               <h2 className="text-4xl md:text-5xl font-bold text-[#333333] leading-relaxed">
-              「社長に確認したい」を<br/>
+              社長に確認したい<br/>
               </h2>
               <h2 className="text-4xl md:text-5xl font-bold text-[#333333] leading-relaxed">
-              いつでもどこでも。
+              その判断をいつでもどこでも。
               </h2>
               <p className="text-xl text-[#666666]">
               経営者の思考を再現したオリジナルAIチャットが<br/>24時間体制で判断をサポート。
