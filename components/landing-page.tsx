@@ -342,8 +342,8 @@ export function LandingPage() {
                 <CardContent className="p-6">
                   <h3 className="text-xl font-bold mb-4 text-[#333333]">通常価格</h3>
                   <div className="space-y-2 text-[#666666]">
-                    <p>初期費用：30万円</p>
-                    <p>月額費用：5万円</p>
+                    <p>初期費用：550,000円(税込)</p>
+                    <p>月額費用：5,500円(税込)</p>
                   </div>
                 </CardContent>
               </Card>
@@ -351,8 +351,8 @@ export function LandingPage() {
                 <CardContent className="p-6">
                   <h3 className="text-xl font-bold mb-4 text-[#00A0E9]">モニター価格（84%OFF）</h3>
                   <div className="space-y-2 text-[#666666]">
-                    <p>初期費用：4.8万円</p>
-                    <p>月額費用：0.8万円（3ヶ月固定）</p>
+                    <p>初期費用：52,800円（税込）</p>
+                    <p>月額費用：8,800円（税込）（3ヶ月固定）</p>
                   </div>
                   <Button className="w-full mt-4 bg-[#F5A623] hover:bg-[#E59513] text-white" asChild>
                     <a href="https://timerex.net/s/medifund/faea4190">
@@ -368,6 +368,7 @@ export function LandingPage() {
               <ul className="space-y-1">
                 <li>15分動画インタビューにご協力いただける方</li>
                 <li>経営における価値基準が明確な方</li>
+                <li>正規雇用者3名以上の企業様</li>
               </ul>
               <p className="mt-4">モニター枠が埋まり次第通常料金でのご案内になります。</p>
             </div>
@@ -628,7 +629,7 @@ export function LandingPage() {
                     モニター価格はいつまで適用されますか？
                   </AccordionTrigger>
                   <AccordionContent className="text-[#666666] space-y-4">
-                    <p>モニター価格は、先着10社様限定です。契約後3ヶ月間は、月額0.8万円（通常5万円）が適用されます。4ヶ月目以降も、モニター企業様には特別価格（月額2.5万円）を継続適用いたします。</p>
+                    <p>モニター価格は、先着10社様限定です。契約後3ヶ月間は、月額8,800円（通常5.5万円）が適用されます。4ヶ月目以降も、モニター企業様には特別価格（月額2.5万円）を継続適用いたします。</p>
                   </AccordionContent>
                 </AccordionItem>
               </Accordion>
