@@ -53,7 +53,7 @@ export function LandingPage() {
               その判断をいつでもどこでも。
               </h2>
               <p className="text-xl text-[#666666]">
-              経営者の思考を再現したオリジナルAIチャットが<br/>24時間体制で判断をサポート。
+              経営者の思考を再現したオーダーメイドAIが<br/>24時間体制で判断をサポート。
               </p>
               <p className="text-lg text-[#666666]">
               「社長の判断基準」が会社の資産に。
