@@ -422,7 +422,7 @@ export function LandingPage() {
             className="space-y-8"
           >
             <h2 className="text-3xl font-bold text-[#333333]">
-              一度ご相談ください。
+              意思決定のスピードを上げるならMindClone
             </h2>
             <p className="text-lg text-[#666666]">
               モニター特別価格（84%OFF）で、<br />
