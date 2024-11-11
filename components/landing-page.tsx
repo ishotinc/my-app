@@ -343,7 +343,7 @@ export function LandingPage() {
                   <h3 className="text-xl font-bold mb-4 text-[#333333]">通常価格</h3>
                   <div className="space-y-2 text-[#666666]">
                     <p>初期費用：550,000円(税込)</p>
-                    <p>月額費用：5,500円(税込)</p>
+                    <p>月額費用：55,500円(税込)</p>
                   </div>
                 </CardContent>
               </Card>
