@@ -28,7 +28,7 @@ export function LandingPage() {
             className="bg-[#F5A623] hover:bg-[#E59513] text-white px-6 py-2 rounded-full"
             asChild
           >
-            <a href="https://timerex.net/s/medifund/faea4190">
+            <a href="https://forms.gle/FGjvgiaiBvsZAVB59">
               <span className="mr-2">無料体験会の予約</span>
               <span className="bg-white text-[#F5A623] text-sm px-2 py-0.5 rounded-full">残り7社</span>
             </a>
@@ -62,7 +62,7 @@ export function LandingPage() {
                 className="bg-[#F5A623] hover:bg-[#E59513] text-white px-8 py-6 text-lg rounded-full"
                 asChild
               >
-                <a href="https://timerex.net/s/medifund/faea4190">
+                <a href="https://forms.gle/FGjvgiaiBvsZAVB59">
                   <span className="mr-2">無料体験会に参加する</span>
                   <span className="bg-white text-[#F5A623] text-sm px-2 py-0.5 rounded-full">残り7社</span>
                   <ArrowRight className="ml-2 h-5 w-5" />
@@ -355,7 +355,7 @@ export function LandingPage() {
                     <p>月額費用：8,800円（税込）（3ヶ月固定）</p>
                   </div>
                   <Button className="w-full mt-4 bg-[#F5A623] hover:bg-[#E59513] text-white" asChild>
-                    <a href="https://timerex.net/s/medifund/faea4190">
+                    <a href="https://forms.gle/FGjvgiaiBvsZAVB59">
                       <span className="mr-2">無料相談</span>
                       <span className="bg-white text-[#F5A623] text-sm px-2 py-0.5 rounded-full">残り7社</span>
                     </a>
@@ -437,7 +437,7 @@ export function LandingPage() {
               className="bg-[#F5A623] hover:bg-[#E59513] text-white px-8 py-6 text-lg rounded-full"
               asChild
             >
-              <a href="https://timerex.net/s/medifund/faea4190">
+              <a href="https://forms.gle/FGjvgiaiBvsZAVB59">
                 <span className="mr-2">組織変革の相談をする</span>
                 <span className="bg-white text-[#F5A623] text-sm px-2 py-0.5 rounded-full">残り7社様</span>
                 <ArrowRight className="ml-2 h-5 w-5" />
