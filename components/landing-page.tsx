@@ -23,7 +23,8 @@ export function LandingPage() {
       {/* Header */}
       <header className="fixed top-0 left-0 right-0 bg-white z-50 shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
-          <h1 className="text-2xl font-bold text-[#333333]">Mind Clone</h1>
+          <h1 className="text-2xl font-bold text-[#333333]">社長のミギウデ</h1>
+
           <Button 
             className="bg-[#F5A623] hover:bg-[#E59513] text-white px-6 py-2 rounded-full"
             asChild
@@ -80,7 +81,7 @@ export function LandingPage() {
             >
               <Image
                 src="/images/mindcone_mockup.png"
-                alt="Mind Clone Interface"
+                alt="社長のミギウデ Interface"
                 width={600}
                 height={400}
                 className="rounded-lg"
